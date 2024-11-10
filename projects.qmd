@@ -1,0 +1,30 @@
+---
+title: "Projects"
+---
+
+```{r}
+
+
+# Bar chart of diamond cuts
+ggplot(diamonds, aes(x = cut)) +
+  geom_bar(fill = "skyblue") +
+  theme_bw()
+```{r}
+theme_bw()
+```{r}
+```
+
+
+```{r}
+```
+
+
+# Bar chart of diamond cuts
+ggplot(diamonds, aes(x = cut)) +
+  geom_bar(fill = "skyblue") +
+  theme_bw()
+
+
+
+
+```
